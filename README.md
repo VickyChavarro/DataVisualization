@@ -4,4 +4,6 @@
 
 - Sales relationships specific to consoles such as Xbox and PS4 were modelled to reflect how a single video game could have multiple versions sold on different platforms, thus capturing the market behaviour of game franchises.
 
-- The report highlighted the importance of eliminating transitive dependencies and improving standardisation to optimise information access and management, avoiding duplication and ensuring that each piece of data is stored in the most logical and efficient place within the schema. In conclusion, the project provided a detailed and functional data model that facilitates the management of video game-related information, enabling the company to make more informed decisions and effectively manage its operations related to the digital entertainment industry.
+- The report highlighted the importance of eliminating transitive dependencies and improving standardisation to optimise information access and management, avoiding duplication and ensuring that each piece of data is stored in the most logical and efficient place within the schema.
+
+- The project provided a detailed and functional data model that facilitates the management of video game-related information, enabling the company to make more informed decisions and effectively manage its operations related to the digital entertainment industry.
